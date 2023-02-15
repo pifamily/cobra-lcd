@@ -1,0 +1,5 @@
+drivers: /home/pi/lcd
+broker_address: '192.168.178.78'
+mqtt_port: 31883
+client_name: netpi
+topic: display
